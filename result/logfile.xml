@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="1" assertions="31" failures="0" errors="0" time="3.547758">
+    <testsuite name="MasterCard\Api\MerchantIdentifier\MerchantIdentifierTest" file="/var/jenkins_home/jobs/MC-MerchantIdentifier-Php/workspace/generated-code/merchant-identifier/php/sdk/Test/MasterCard/Api/MerchantIdentifier/MerchantIdentifierTest.php" tests="1" assertions="31" failures="0" errors="0" time="3.547758">
+      <testcase name="test_example_merchant_identifier" class="MasterCard\Api\MerchantIdentifier\MerchantIdentifierTest" file="/var/jenkins_home/jobs/MC-MerchantIdentifier-Php/workspace/generated-code/merchant-identifier/php/sdk/Test/MasterCard/Api/MerchantIdentifier/MerchantIdentifierTest.php" line="55" assertions="31" time="3.547758"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
