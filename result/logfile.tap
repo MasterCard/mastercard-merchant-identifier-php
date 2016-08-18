@@ -1,0 +1,3 @@
+TAP version 13
+ok 1 - MasterCard\Api\MerchantIdentifier\MerchantIdentifierTest::test_example_merchant_identifier
+1..1
